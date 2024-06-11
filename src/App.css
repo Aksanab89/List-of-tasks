@@ -1,0 +1,65 @@
+.crossed {
+  text-decoration: line-through 2px red;
+  background-color: #f0f0f0;
+}
+
+body {
+  background-color: #EF9C66;
+}
+
+.App {
+  background-color: white;
+  min-height: 80vh;
+  width: 400px;
+  margin: 20px auto;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+img {
+  margin-top: 12px;
+  border-radius: 20%;
+}
+
+h1 {
+  font-family: "Libre Baskerville", serif;
+  font-size: 25px;
+  color: #78ABA8;
+}
+
+.inputText {
+  padding: 5px;
+}
+
+.add {
+  background-color: #EF9C66;
+  border: none;
+  padding: 8px;
+  width: 70%;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-size: 15px;
+}
+
+
+.delete {
+  border: none;
+  padding: 8px;
+  width: 70%;
+  background-color: #78ABA8;
+  color: white;
+  font-family: "Libre Baskerville", serif;
+  font-size: 15px;
+
+}
+
+ul, li {
+  list-style-type: none;
+  padding: 10px;
+  text-align: center;
+  font-family: "Libre Baskerville", serif;
+}
